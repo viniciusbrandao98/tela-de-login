@@ -17,3 +17,12 @@ body {
     background-size: cover;
     background-position: center;
 }
+.container {
+    width: 420px;
+    background-color: transparent;
+    border: 2px solid rgba(255, 255, 255, .2);
+    padding: 30px 40px;
+    border-radius: 10px;
+    color: #fff;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
