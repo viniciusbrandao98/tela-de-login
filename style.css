@@ -60,3 +60,8 @@ body {
     top: 25%;
     font-size: 20px;
 }
+
+.remember-forgot {
+    display: flex;
+    justify-content: space-between;
+}
